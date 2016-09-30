@@ -1,0 +1,22 @@
+{
+  "name": "botkit-zoi",
+  "version": "0.0.1",
+  "description": "zoi",
+  "main": "index.js",
+  "bin": {
+    "botkit-zoi": "index.js"
+  },
+  "dependencies": {
+    "botkit": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "zois.js"
+  ]
+}
