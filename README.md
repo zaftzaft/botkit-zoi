@@ -8,6 +8,7 @@ slack に涼風青葉
 # インストール
 
 ```bash
+$ npm i -g zaftzaft/botkit-zoi
 ```
 
 # つかいかた
